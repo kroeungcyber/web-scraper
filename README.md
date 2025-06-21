@@ -1,2 +1,1 @@
-# web-scraper
-Initial repository setup
+The content of README.md from the local file
